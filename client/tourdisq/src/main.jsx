@@ -13,7 +13,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
       domain="dev-i6n4cukc2d01oilh.us.auth0.com"
       clientId="obeg7IYJXnsvmG2YuQpCiUWMuItCUfoK"
       authorizationParams={{
-        redirect_uri: "https://6526b68179509c7ba6acbc30--serene-pony-e621c2.netlify.app/",
+        redirect_uri: "https://tourdisq-dextroxe.vercel.app/",
       }}
       audience="http://localhost:8000"
       scope="openid profile email"
