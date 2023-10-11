@@ -1,0 +1,72 @@
+.App {
+  position: relative;
+  overflow-x: clip;
+  background-color: #f3eaf9;
+}
+
+.App > :nth-child(1) {
+  background: var(--black);
+  position: relative;
+}
+.left-circle-gradient {
+  position: absolute;
+  width: 20rem;
+  height: 20rem;
+  background-image: linear-gradient(
+    to right top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+  filter: blur(100px);
+  border-radius: 100px;
+}
+.left-gradient {
+  position: absolute;
+  top: 5rem;
+  width: 80rem;
+  height: 20rem;
+  background: linear-gradient(
+    to right top,
+    #858ae3,
+    #7976d5,
+    #6e61c6,
+    #644cb7,
+    #5b36a7,
+    #612faa,
+    #6725ac,
+    #6e17ad,
+    #851bc2,
+    #9e1dd6,
+    #b71feb,
+    #d21fff
+  );
+  filter: blur(100px);
+  border-radius: 100px;
+}
+.right-circle-gradient {
+  position: absolute;
+  bottom: 0rem;
+  right: 5rem;
+  width: 25rem;
+  height: 20rem;
+  background: linear-gradient(
+    to right top,
+    #858ae3,
+    #7976d5,
+    #6e61c6,
+    #644cb7,
+    #5b36a7,
+    #612faa,
+    #6725ac,
+    #6e17ad,
+    #851bc2,
+    #9e1dd6,
+    #b71feb,
+    #d21fff
+  );
+  filter: blur(100px);
+  border-radius: 100px;
+}
