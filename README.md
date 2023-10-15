@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Dextroxe/tourDisq/main/images/landingPage.png" alt="project-image"></p>
 
-<p id="description">Tourist Haven is an ambitious full-stack website development project that aims to revolutionize the way travelers share and discover tour destinations and holiday homes. This comprehensive platform is designed to cater to the diverse needs of globetrotters providing them with a seamless and interactive experience.</p>
+<p id="description">TourDisq is an ambitious full-stack website development project that aims to revolutionize the way travelers share and discover tour destinations and holiday homes. This comprehensive platform is designed to cater to the diverse needs of globetrotters providing them with a seamless and interactive experience.</p>
 
 <h2>Project Screenshots:</h2>
 
